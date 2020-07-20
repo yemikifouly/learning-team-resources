@@ -14,19 +14,28 @@ There is also a folder to keep the minutes of our minutes for future reference.
 
 Join or check out the Learning Team's Trello boards here.
 
-1. [Learning Team General](https://trello.com/invite/b/wPV1hmRF/8ddb8564d9da6743ff68d4363a44a835/om-learning-team)
-2. [Learning Team's Beta Bootcamp](https://trello.com/invite/b/NijtzoRQ/f014e557c8b2d036741b67bd2ccc40ae/bootcamp-beta)
+* [General](https://trello.com/invite/b/wPV1hmRF/8ddb8564d9da6743ff68d4363a44a835/om-learning-team)
+* [Beta Bootcamp](https://trello.com/invite/b/NijtzoRQ/f014e557c8b2d036741b67bd2ccc40ae/bootcamp-beta)
 
 If you are new to Learning Team's Trello boards, please read about how the board is set up and the guidelines to follow in the *About this board* section of the board you join. You can also read about the general setup of Learning Team's boards here(add a link after adding a file here with that info).
 
-## Learning Team's Channels
+## Channels
 
-### Private Channels
+### Team Channels
 
-1. **#community_learning_team:** Private channel for the team leads in the Learning Team and the Learning Team's Lead.
-2. **#community_learning_aides:** Private channel for the Aides of the team.
-3. **#community_learning_tech-team:** Private channel for members of the Learning Team's Tech Team.
+* **#community_lt_core:** Private channel for the team leads in the Learning Team and the Learning Team's Lead. Private.
+* **#community_lt_aides:** Private channel for the Aides of the team. Private.
+* **#community_lt_tech-team:** Private channel for members of the Learning Team's Tech Team. Private.
 
-## Public Channel
+### Learners Channel
 
-1. **#community_om-learners:** Public channels for everyone interested in participating in Learning Team's bootcamps. Usually referred to as the general learners channel.
+* **#community_om-learners:** Channel for all the members of the community interested in Learning Team's acitivities. Main channel where Learning Team announces its activities and initiatives. Public.
+* **#community_lt_beta-bootcamp:** Channel for activities related to the Beta Bootcamp. Private.
+
+
+## Databases
+
+* [Learners](https://airtable.com/shr5kzEqJ6DMFUdZo)
+* [Members](https://airtable.com/shr5kzEqJ6DMFUdZo)
+
+If you wish or need to be added as a collaborator on one of the databases, reach out to your team's lead or to @Yemi in Slack.
