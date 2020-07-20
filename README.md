@@ -14,18 +14,18 @@ There is also a folder to keep the minutes of our minutes for future reference.
 
 Join or check out the Learning Team's Trello boards here.
 
-* [General](https://trello.com/invite/b/wPV1hmRF/8ddb8564d9da6743ff68d4363a44a835/om-learning-team)
-* [Beta Bootcamp](https://trello.com/invite/b/NijtzoRQ/f014e557c8b2d036741b67bd2ccc40ae/bootcamp-beta)
+* **[General](https://trello.com/invite/b/wPV1hmRF/8ddb8564d9da6743ff68d4363a44a835/om-learning-team)**
+* **[Beta Bootcamp](https://trello.com/invite/b/NijtzoRQ/f014e557c8b2d036741b67bd2ccc40ae/bootcamp-beta)**
 
-If you are new to Learning Team's Trello boards, please read about how the board is set up and the guidelines to follow in the *About this board* section of the board you join. You can also read about the general setup of Learning Team's boards here(add a link after adding a file here with that info).
+If you are new to Learning Team's Trello boards, please read about how the board is set up and the guidelines to follow in the ***About this board*** section of the board you join. You can also read about the general setup of Learning Team's boards here(add a link after adding a file here with that info).
 
 ## Channels
 
 ### Team Channels
 
-* **#community_lt_core:** Private channel for the team leads in the Learning Team and the Learning Team's Lead. Private.
-* **#community_lt_aides:** Private channel for the Aides of the team. Private.
-* **#community_lt_tech-team:** Private channel for members of the Learning Team's Tech Team. Private.
+* **[#community_lt_core:](https://app.slack.com/client/T6963A864/GTZLNFZUK/details/top)** Channel for the team leads in the Learning Team and the Learning Team's lead. Private.
+* **[#community_lt_tech-team:](https://app.slack.com/client/T6963A864/G016TNLUNAU/details/top)** Channel for members of the Learning Team's Tech Team. Private.
+* **[#community_lt_admin-team:](https://app.slack.com/client/T6963A864/C0183HVKCV6/details/top)** Channel for members of the Learning Team's Administration Team. Private.
 
 ### Learners Channel
 
@@ -35,7 +35,7 @@ If you are new to Learning Team's Trello boards, please read about how the board
 
 ## Databases
 
-* [Learners](https://airtable.com/shr5kzEqJ6DMFUdZo)
-* [Members](https://airtable.com/shr5kzEqJ6DMFUdZo)
+* **[Learners](https://airtable.com/shr5kzEqJ6DMFUdZo)**
+* **[Members](https://airtable.com/shr5kzEqJ6DMFUdZo)**
 
 If you wish or need to be added as a collaborator on one of the databases, reach out to your team's lead or to @Yemi in Slack.
