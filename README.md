@@ -23,14 +23,14 @@ If you are new to Learning Team's Trello boards, please read about how the board
 
 ### Team Channels
 
-* **[#community_lt_core:](https://app.slack.com/client/T6963A864/GTZLNFZUK/details/top)** Channel for the team leads in the Learning Team and the Learning Team's lead. Private.
-* **[#community_lt_tech-team:](https://app.slack.com/client/T6963A864/G016TNLUNAU/details/top)** Channel for members of the Learning Team's Tech Team. Private.
-* **[#community_lt_admin-team:](https://app.slack.com/client/T6963A864/C0183HVKCV6/details/top)** Channel for members of the Learning Team's Administration Team. Private.
+* **[#edu_learning_leads:](https://app.slack.com/client/T6963A864/GTZLNFZUK/details/top)** Channel for the team leads in the Learning Team and the Learning Team's lead. Private.
+* **[#edu_learning_tech:](https://app.slack.com/client/T6963A864/G016TNLUNAU/details/top)** Channel for members of the Learning Team's Tech Team. Private.
+* **[#edu_learning_admin:](https://app.slack.com/client/T6963A864/C0183HVKCV6/details/top)** Channel for members of the Learning Team's Administration Team. Private.
 
 ### Learners Channel
 
-* **#community_om-learners:** Channel for all the members of the community interested in Learning Team's acitivities. Main channel where Learning Team announces its activities and initiatives. Public.
-* **#community_lt_beta-bootcamp:** Channel for activities related to the Beta Bootcamp. Private.
+* **#edu_learners:** Channel for all the members of the community interested in Learning Team's acitivities. Main channel where Learning Team announces its activities and initiatives. Public.
+* **#edu_beta_bootcamp:** Channel for activities related to the Beta Bootcamp. Private.
 
 
 ## Databases
